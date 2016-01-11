@@ -51,6 +51,6 @@ class Roster implements ProtocolImplementationInterface
      */
     public function toString()
     {
-        return '<iq type="get" id="' . XML::generateId() . '"><query xmlns="jabber:iq:roster"/></iq>';
+        return '<iq type="get" id="' . XML::generateId() . '" kk="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"><query xmlns="jabber:iq:roster"/></iq>';
     }
 }
