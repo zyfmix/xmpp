@@ -10,7 +10,7 @@ use Fabiang\Xmpp\Util\XML;
 use Fabiang\Xmpp\Protocol\ProtocolImplementationInterface;
 
 /**
- * Register new user zyfer
+ * Register new user zyfer...haha
  * @param string $username
  * @param string $password
  * @param string $email
