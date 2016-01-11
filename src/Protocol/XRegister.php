@@ -5,6 +5,7 @@
  * Date: 2016-01-11
  * Time: 5:34 PM
  */
+namespace Fabiang\Xmpp\Protocol;
 
 use Fabiang\Xmpp\Util\XML;
 use Fabiang\Xmpp\Protocol\ProtocolImplementationInterface;
